@@ -49,7 +49,7 @@ function Contact() {
   target="_blank"
   rel="noopener noreferrer"
 >
-  Send Email
+  Send Email!
 </a>
 
             </Email>
