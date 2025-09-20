@@ -44,13 +44,14 @@ function Contact() {
                 </Tooltip>
               </div>
               <a
-                className="btn PrimaryBtn btn-shadow"
-                href="ox.shubham404@gmail.com"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Send Email
-              </a>
+  className="btn PrimaryBtn btn-shadow"
+  href="mailto:ox.shubham404@gmail.com"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  Send Email
+</a>
+
             </Email>
           </div>
         </ScrollAnimation>
