@@ -11,7 +11,7 @@ export const ProjectList = [
   },
   {
     img: "/renr-responsive.png",
-    title: "DeFi AVAngers",
+    title: "DeFi Avangers",
     description:
       "DeFi AVAngers is an advanced decentralized finance (DeFi) platform that harnesses artificial intelligence to optimize user interactions with blockchain-based financial services. The platform employs a sophisticated suite of AI agents designed to streamline DeFi operations, enhance decision-making, and maximize portfolio performance.",
     tech_stack: ["TypeScript", "ethers.js", "PostgreSQL", "TailwindCSS", "PyTorch"],
