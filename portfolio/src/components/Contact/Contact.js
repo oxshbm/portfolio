@@ -40,7 +40,7 @@ function Contact() {
                 >
                   <IconButton  onClick={copyToClipboard} >
                     <MdContentCopy size={25} style={{ cursor: 'pointer', color: "#151418" }}/>
-                  </IconButton>
+                  </IconButton> 
                 </Tooltip>
               </div>
               <a
@@ -49,7 +49,7 @@ function Contact() {
   target="_blank"
   rel="noopener noreferrer"
 >
-  Send Email
+  Send Email!
 </a>
 
             </Email>
