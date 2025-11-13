@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url: "ty video url here",
   },
   {
-    img: "/mymind-responsive.png",
+    img: "/multiversex.jpeg",
     title: "Multiversx Contract Builder",
     description:
       "The MultiversX Smart Contract Generator is an AI-powered tool that helps developers quickly create, customize, and deploy smart contracts on the MultiversX blockchain. It automates contract generation, optimizes code for efficiency, and reduces development time, making it easier for teams to build secure and scalable dApps without deep protocol-level expertise..",
@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "https://youtu.be/wwlg6hbu0IQ",
   },
   {
-    img: "/pokedex-responsive.png",
+    img: "/insightnexus.jpeg",
     title: "Insight-nexus-monitor-pro",
     description:
       "The Market Research Agent is an autonomous AI-powered application that continuously monitors industries, competitors, and market sentiment to deliver real-time insights and alerts. Built with React, Tailwind CSS, and the Tavily API, it transforms raw web data into actionable intelligence and generates detailed downloadable reports.",
@@ -37,7 +37,7 @@ export const ProjectList = [
     demo_url: "https://youtu.be/v6EFZB3OfTo",
   },
   {
-    img: "/jobDetect.png",
+    img: "/avascanai.jpeg",
     title: "AvaScanAI",
     description:
       "AvaScanAI is an enterprise-grade blockchain intelligence platform designed for developers, infrastructure teams, and enterprises operating on Avalanche C-Chain. We provide professional-grade gas efficiency tracking, transaction flow visualization, and intelligent analysis for mission-critical Avalanche operations. ",
