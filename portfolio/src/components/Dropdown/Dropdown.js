@@ -86,7 +86,7 @@ function Dropdown({ isOpen, toggle }) {
       <NavBtn onClick={toggle}>
         <a
           className="btn PrimaryBtn"
-          href="https://www.linkedin.com/in/shubham-avhad-705343261/"
+          href="https://drive.google.com/file/d/1Ry6nODLFMSVirwV72JQs4plGCZVovidE/view?usp=drivesdk"
           target="_blank"
           rel="noopener noreferrer"
         >

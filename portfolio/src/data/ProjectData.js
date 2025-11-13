@@ -1,23 +1,23 @@
 // --------------------------------------- Project List
 export const ProjectList = [
-  {
-    img: "/ykte-feature-graphic.png",
-    title: "AgentiFi",
-    description:
-      "AgentiFi is an advanced AI-powered toolkit for interacting with the Mantle Network through a team of specialized AI agents. Each agent has unique capabilities and works together to provide a seamless blockchain interaction experience.",
-    tech_stack: [" TypeScript", "ethers.js", "NextJs", "TailwindCSS"],
-    github_url: "https://github.com/oxshbm/AgentiFi.git",
-    demo_url: "add youtube video url here",
-  },
-  {
-    img: "/renr-responsive.png",
-    title: "DeFi Avangers",
-    description:
-      "DeFi AVAngers is an advanced decentralized finance (DeFi) platform that harnesses artificial intelligence to optimize user interactions with blockchain-based financial services. The platform employs a sophisticated suite of AI agents designed to streamline DeFi operations, enhance decision-making, and maximize portfolio performance.",
-    tech_stack: ["TypeScript", "ethers.js", "PostgreSQL", "TailwindCSS", "PyTorch"],
-    github_url: "https://github.com/oxshbm/DeFi-AVAngers.git",
-    demo_url: "ty video url here",
-  },
+  // {
+  //   img: "/agentify.png",
+  //   title: "AgentiFi",
+  //   description:
+  //     "AgentiFi is an advanced AI-powered toolkit for interacting with the Mantle Network through a team of specialized AI agents. Each agent has unique capabilities and works together to provide a seamless blockchain interaction experience.",
+  //   tech_stack: [" TypeScript", "ethers.js", "NextJs", "TailwindCSS"],
+  //   github_url: "https://github.com/oxshbm/AgentiFi.git",
+  //   demo_url: "add youtube video url here",
+  // },
+  // {
+  //   img: "/defi.png",
+  //   title: "DeFi Avangers",
+  //   description:
+  //     "DeFi AVAngers is an advanced decentralized finance (DeFi) platform that harnesses artificial intelligence to optimize user interactions with blockchain-based financial services. The platform employs a sophisticated suite of AI agents designed to streamline DeFi operations, enhance decision-making, and maximize portfolio performance.",
+  //   tech_stack: ["TypeScript", "ethers.js", "PostgreSQL", "TailwindCSS", "PyTorch"],
+  //   github_url: "https://github.com/oxshbm/DeFi-AVAngers.git",
+  //   demo_url: "ty video url here",
+  // },
   {
     img: "/multiversex.jpeg",
     title: "Multiversx Contract Builder",

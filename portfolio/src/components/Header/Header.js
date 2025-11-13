@@ -16,7 +16,7 @@ const Header = ({ toggle }) => {
             Projects
           </NavLink>
           <NavLink className="menu-item" to="about">
-            About
+            Experiences
           </NavLink>
           <NavLink className="menu-item" to="contact">
             Contact
@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://www.linkedin.com/in/shubham-avhad-705343261/"  //add teh resume  link here
+            href="https://drive.google.com/file/d/1Ry6nODLFMSVirwV72JQs4plGCZVovidE/view?usp=drivesdk"  //add teh resume  link here
             target="_blank"
             rel="noopener noreferrer"
           >
