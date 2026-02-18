@@ -29,12 +29,12 @@ export const ProjectList = [
   },
   {
     img: "/insightnexus.jpeg",
-    title: "Insight-nexus-monitor-pro",
+    title: "Campus-Connect",
     description:
-      "The Market Research Agent is an autonomous AI-powered application that continuously monitors industries, competitors, and market sentiment to deliver real-time insights and alerts. Built with React, Tailwind CSS, and the Tavily API, it transforms raw web data into actionable intelligence and generates detailed downloadable reports.",
-    tech_stack: ["ReactJs", "tailwind CSS", "typescript", "tavily API" , "JavaScript", "Node.js", "MongoDB"],
-    github_url: "https://github.com/oxshbm/insight-nexus-monitor-pro-main.git",
-    demo_url: "https://youtu.be/v6EFZB3OfTo",
+      "Campus Connect is a modern student networking platform that brings campus life into one digital hub. It enables students to connect, share updates, discover events, and collaborate through a clean, intuitive interface. Built with a focus on real-world usability, it streamlines communication and strengthens campus communities.",
+    tech_stack: ["ReactJs", "tailwind CSS", "typescript", " API" , "JavaScript", "Node.js", "MongoDB"],
+    github_url: "https://github.com/oxshbm/Campus-Connect.git",
+    demo_url: "In progress",
   },
   {
     img: "/avascanai.jpeg",
