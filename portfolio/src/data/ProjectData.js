@@ -28,7 +28,7 @@ export const ProjectList = [
     demo_url: "https://youtu.be/wwlg6hbu0IQ",
   },
   {
-    img: "/insightnexus.jpeg",
+    img: "/campusconnect.png",
     title: "Campus-Connect",
     description:
       "Campus Connect is a modern student networking platform that brings campus life into one digital hub. It enables students to connect, share updates, discover events, and collaborate through a clean, intuitive interface. Built with a focus on real-world usability, it streamlines communication and strengthens campus communities.",
